@@ -1,0 +1,168 @@
+body {
+     font-family:  'Poppins', serif;
+     color:#5C5959;
+     text-align: left;
+ }
+
+
+header ul {
+           float: right;
+          margin:2rem;
+          color: #fff;
+        }
+
+.start {
+  margin-top: 2rem;
+     padding: 20rem 1.5rem 2rem;
+     background: url(../img/gallery.jpg);
+     background-size: cover;
+     text-align: right;
+     background-position: 50% 50%
+   }
+
+     .hero a {
+     background-color: #5C5959;
+     padding: .5rem 1rem;
+     color: #ffffff;
+     text-decoration: none;
+   }
+   
+
+
+.logo{
+  height:3rem;
+  color: black;
+
+}
+
+.intro{
+  padding: 1rem;
+}
+
+.intro p {
+font-size: 1.25rem;
+}
+
+
+
+
+ul {
+     margin: 0;
+padding: .50rem;
+     list-style-type: none;
+     color:black;
+ }
+
+
+
+
+ h1 {
+   font-family:  'Montserrat', sans-serif;
+     font-size: 2rem;
+     line-height: 1;
+font-weight: 400;
+font-style: normal;
+color: black;
+
+}
+
+
+
+.services{
+	padding:3rem;
+     background-color:rgba(250, 213,129,.27);
+
+
+}
+
+.content{
+padding:1rem;
+}
+
+.content p {
+	margin: 1.5rem;
+}
+
+.content .button {
+background-color:#A4B7BD;
+color:black;
+}
+
+
+.features {
+padding-top: 2rem;
+padding-bottom: 6rem;
+}
+
+.features .grid-x {
+	background-color: ;
+}
+
+form{
+  margin:2rem;
+
+}
+
+  .form-icons {
+    text-align: center;
+
+  }
+
+    h4 {
+      margin-bottom: 1rem;
+      
+    }
+
+    .input-group-label {
+      background-color:#A4B7BD ;
+      border-color:#A4B7BD;
+    }
+
+    .input-group-field {
+      border-color:#A4B7BD 
+      ;
+    }
+
+    .fa {
+      color: white;
+      width: 1rem; 
+
+    }
+
+    button-expanded{
+    background-color:rgba(250, 213,129,.27);
+    }
+  
+
+
+footer{
+margin-top: 3rem;
+text-align: center;
+background-color:#A4B7BD;
+
+}
+
+footer ul{
+	float: right;
+
+}
+
+.footer-two{
+text-align: left;
+
+}
+
+.social{
+  color: black;
+  background-color:rgba(250, 213,129,.27);;
+
+}
+
+.quotes{
+  margin:2rem;
+padding:2rem;
+}
+
+
+
+
